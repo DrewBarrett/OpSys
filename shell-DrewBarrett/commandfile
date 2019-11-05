@@ -1,0 +1,5 @@
+ls
+gcc --version
+/bin/ls
+/bin/echo Hello World
+uname -a

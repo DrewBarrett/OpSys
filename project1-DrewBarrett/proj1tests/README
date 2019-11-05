@@ -1,0 +1,9 @@
+# Building
+`make`
+# Running
+## Root test
+`./main`
+## Others
+`sudo ./main`
+# Strategy
+The test file tests all failure cases, edge cases and locks.

@@ -1,0 +1,5 @@
+ls
+/bin/meme
+echo This should never run
+echo nor this
+ls -a

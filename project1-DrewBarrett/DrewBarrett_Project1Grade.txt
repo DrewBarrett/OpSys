@@ -1,0 +1,19 @@
+CMSC 421 Project1 Grade
+Total Possible Points: 50
+
+emailid: dbarret1@umbc.edu
+username: DrewBarrett
+
+
+1. Changed the version string (+2)			: 2
+2. Submitted required files (+6)			: 6
+3. Implemented all the system calls (+18)		: 18
+4. Code executes successfully (+4)			: 4
+5. Handled error codes for all system calls (+8)	: 8
+6. Passed all test cases (6 test cases - +12)		: 2
+						     ----------
+					Total		: 40
+
+
+Comment: 
+(-10) Failed 5 test cases
